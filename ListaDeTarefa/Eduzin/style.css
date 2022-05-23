@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(126, 126, 182) ;
+}
+
+.container {
+    width: 50%;
+    margin: 200px auto 0px auto;
+}
+main {
+    margin-top: 160px;
+    background: rgb(126, 121, 182);
+    color: rgb(7, 6, 6);
+}
+
+h2{
+    margin-left: 200px;
+}
+
+.removed {
+    color: red;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
+
+span{
+    background-color: rgb(75, 75, 107);
+}
+ul li {
+    list-style-type: none;
+
+}
+footer{
+    margin-top: 20%;
+    margin-left: 150px;
+}
+input{
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
